@@ -1,3 +1,8 @@
+function play() {
+    var audio = document.getElementById("audio");
+    audio.play();
+  }
+
 //define our first cariable , the chacha
 let chacha = document.querySelector(".chacha");
 

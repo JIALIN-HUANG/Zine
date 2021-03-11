@@ -65,8 +65,8 @@ top: 582px;
 
 .audio{
     position: absolute;
-    left: 45%;
-    top: 35%;
+    left: 50%;
+    top: 50%;
 }
 
 @-webkit-keyframes backgroundcolor {
