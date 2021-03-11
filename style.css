@@ -23,6 +23,18 @@ body {
   top: 582px;
 }
 
+.letter{
+  position: absolute;
+  opacity: 0%;
+  width: 56vw;
+  left: 22%;
+  top: 3%;
+}
+
+.letter.active{
+  opacity: 100%;
+}
+
 .milk {
   position: absolute;
   width: 193px;
