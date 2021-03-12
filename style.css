@@ -35,12 +35,72 @@ body {
   opacity: 100%;
 }
 
+.moliletter{
+  position: absolute;
+  opacity: 0%;
+  width: 56vw;
+  left: 22%;
+  top: 3%;
+}
+
+.moliletter.active{
+  opacity: 100%;
+}
+
+.mlnletter{
+  position: absolute;
+  opacity: 0%;
+  width: 56vw;
+  left: 22%;
+  top: 3%;
+}
+
+.mlnletter.active{
+  opacity: 100%;
+}
+
+.jakeletter{
+  position: absolute;
+  opacity: 0%;
+  width: 56vw;
+  left: 22%;
+  top: 3%;
+}
+
+.jakeletter.active{
+  opacity: 100%;
+}
+
 .milk {
   position: absolute;
   width: 193px;
   height: 193px;
   left: 21.5%;
   top: 582px;
+}
+
+.milkletter{
+  position: absolute;
+  opacity: 0%;
+  width: 56vw;
+  left: 22%;
+  top: 3%;
+}
+
+.milkletter.active{
+  opacity: 100%;
+}
+
+.ruanletter{
+  position: absolute;
+  opacity: 0%;
+  width: 56vw;
+  left: 22%;
+  top: 3%;
+}
+
+.ruanletter.active{
+  opacity: 100%;
 }
 
 .jake {
